@@ -15,3 +15,4 @@ Animation of the graphical representation.
  Screenshot:
  
  
+![alt tag](https://github.com/yehiahesham/Disk-Analyzer/blob/master/Sc.png)
