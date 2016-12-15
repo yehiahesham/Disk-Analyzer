@@ -5,7 +5,7 @@ Ubuntu Disk Analyzer
 
 Graphical representation of data (names and sizes of folders and files).
 
-Folder navigation within the application  , (SOON WILL BE UPDATED WITH TREE VIEWER)
+Folder navigation within the application
 
 Animation of the graphical representation.
 
